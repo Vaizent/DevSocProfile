@@ -190,13 +190,4 @@ img {
     100% {
       transform: translate(-100px, 100px); /* End in a new random position */
     }
-  }
-  
-  /* Adjust different speeds for randomness */
-  h1 {
-    animation-duration: 12s;
-  }
-  
-  p {
-    animation-duration: 15s;
-  }
+}
